@@ -26,7 +26,7 @@ Además, incluye un *hover* que permite mostrar la sigue ficha y las casillas di
 
 ### Tablero
 
-![img2](/img/tab1.png)
+![img2](/img/tab1.png){w=600px,h=650px}
 
 ### Pantalla Final
  
